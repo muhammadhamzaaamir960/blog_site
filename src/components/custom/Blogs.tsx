@@ -55,6 +55,7 @@ function Blogs() {
 
           <div className='w-[28rem] max-w-[30rem]  m-2 bg-stone-300 p-4 rounded-xl shadow-xl flex flex-col items-center  '>
             <Image src={blog1} alt='blog image' width={400} height={400}
+            
             className='p-2 hover:scale-105 hover:delay-150 hover:duration-500 cursor-pointer'/>
             <h3 className=' text-start text-3xl font-bold hover:delay-150 hover:duration-500 hover:underline hover:underline-offset-4 cursor-pointer mt-4'>Blog title 5</h3>
             <p className=' text-lg text-ellipsis overflow-hidden text-start my-4'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate quas sequi totam cumque, explicabo aperiam commodi vitae quasi quod unde, ullam temporibus doloribus similique voluptates voluptas nihil deserunt repudiandae omnis.</p>
