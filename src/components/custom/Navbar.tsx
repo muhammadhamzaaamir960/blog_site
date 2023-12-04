@@ -30,7 +30,7 @@ function Navbar() {
                     
                 </span>/  
 
-                {/* menu */}
+                {/* Menu */}
                 <div className='w-30% ' >
                     <ul className='hidden sm:flex space-x-8 mr-20 ml-6'>
                         <li><Link href={'/'} className='text-white font-medium text-xl lg:text-2xl hover:underline hover:underline-offset-4 hover:duration-100'>Blogs</Link></li>
